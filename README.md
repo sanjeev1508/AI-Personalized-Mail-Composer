@@ -1,4 +1,4 @@
-# 📧 Custom Email Generator
+# Custom Email Generator
 
 This is a personalized **AI-powered email assistant** that learns your writing style from your past Gmail messages and uses LLMs (like NVIDIA or Groq) to generate professional, personalized emails.
 
@@ -6,7 +6,7 @@ The system features a conversational UI built with Streamlit and a step-by-step 
 
 ---
 
-## ✨ Features
+## Features
 
 - Learns your **email style** from Gmail "Sent" messages
 - Step-by-step email drafting: recipient → signature → purpose → extra context
@@ -17,7 +17,7 @@ The system features a conversational UI built with Streamlit and a step-by-step 
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```text
 custom_email_generator/
