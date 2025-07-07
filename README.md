@@ -33,4 +33,25 @@ custom_email_generator/
 ├── .gitignore
 └── README.md
 ```
+## Install Dependencies
+```pip install -r requirements.txt```
 
+## How to Get Your Gmail App Password:
+```
+To allow the app to fetch your sent emails securely:
+
+Visit https://myaccount.google.com/
+
+Search “App Passwords”
+
+Create a new app password (e.g., “Email Bot”)
+
+Copy the generated 16-character password
+
+Use this password in the app’s login screen
+
+[ 2-Step Verification must be enabled on your Google Account.]
+```
+
+## Run this app
+```streamlit run app.py```
